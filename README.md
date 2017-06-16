@@ -19,7 +19,7 @@ Languages
 C++
 [ ]
 Functional Programming
-[ ]
+[x] Solve Me First
 java
 [ ]
 linux-shell
