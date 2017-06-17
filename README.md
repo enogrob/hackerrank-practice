@@ -18,13 +18,12 @@ Learn everything you need to about the subject of this `Hackerrank` project.
 Languages
 C++
 [ ]
-Functional Programming
-[x] Solve Me First
+Functional Programming(Erlang)
+[x] 001-solve-me-first
 java
 [ ]
 linux-shell
-[ ]
-[ ]
+[x] 001-looping-and-skipping
 python
 [ ]
 ruby
