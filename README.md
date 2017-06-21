@@ -27,7 +27,10 @@ linux-shell
 python
 [ ]
 ruby
-[ ]
+[x] Hello HackerRank
+[x] Everything is an Object
+[x] Object Methods
+[x] Object Methods Parameters
 
 Tutorials
 30 Days of Code
