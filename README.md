@@ -19,7 +19,7 @@ Languages
 C++
 [ ]
 Functional Programming(Erlang)
-[x] 001-solve-me-first
+[x] Solve Me First
 java
 [ ]
 linux-shell
