@@ -31,6 +31,7 @@ ruby
 [x] Everything is an Object
 [x] Object Methods
 [x] Object Methods Parameters
+[x] Ruby Control Structures - Each
 
 Tutorials
 30 Days of Code
