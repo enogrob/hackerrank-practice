@@ -26,13 +26,16 @@ linux-shell
 [x] 001-looping-and-skipping
 python
 [ ]
-ruby
+Ruby
+Ruby Tutorial
 [x] Hello HackerRank
 [x] Everything is an Object
 [x] Object Methods
 [x] Object Methods Parameters
-[x] Ruby Control Structures - Each
-[x] Ruby Control Structures - Unless
+Ruby Control Structures
+[x] Each
+[x] Unless
+[x] Infinite Loop
 
 Tutorials
 30 Days of Code
